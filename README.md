@@ -63,7 +63,7 @@ I'm a passionate **Associate Software Engineer** skilled in designing and develo
 
 ### 🔥 Featured Projects
 
-- 🎨 **[StoryLoop](https://github.com/HamadAliMughal)** – WordPress + Next.js platform for dynamic storytelling with blazing speed
+- 🎨 **Storyloop** – WordPress + Next.js platform for dynamic storytelling with blazing speed
 - 🔎 **Scrapper-est** – Django + Selenium powered web scraper for automated data extraction
 - 📸 **Memvy** – Memory-sharing platform using Next.js, Node.js, and Redux-Saga
 - 🛡️ **FindMySecurity** – Real-time service booking platform for security providers
