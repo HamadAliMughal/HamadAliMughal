@@ -16,14 +16,25 @@
 I'm a passionate **Associate Software Engineer** skilled in designing and developing scalable full-stack solutions. I enjoy turning complex problems into simple, beautiful, and intuitive applications.
 
 - 💼 Working with modern web & mobile stacks
-- 🚀 Experienced in developing SEO-friendly, high-performance apps
+- 🚀 Experienced in developing SEO-friendly, high-performance apps (including **SSR** with **Next.js**)
+- 🧩 **TypeScript-first** mindset: interfaces, generics, and strict typing in larger codebases where it matters
 - 🎯 Always up for a challenge and love continuous learning
+
+#### 🏗️ Engineering focus (production-oriented)
+
+- End-to-end feature work: design the approach, implement, test, and ship with **edge cases**, **data integrity**, and **failure scenarios** in mind—not only happy paths
+- **REST APIs** with validation, consistent error handling, and **layered backend** structure (controllers → services → data access)
+- **Role-based access control (RBAC)** and secure auth flows
+- **Client & server state** in React/Next.js apps; comfortable with component-driven UI architecture
+- Supporting **deployments** (staging/production), **environment variables**, log checks, and debugging on **Linux** and cloud hosts
+- Collaborating through clear task breakdowns, **PR reviews**, and guidance for less experienced contributors when the team needs it
 
 ---
 
 ### ⚙️ Tech Stack & Tools
 
 #### 💻 Languages  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -34,6 +45,7 @@ I'm a passionate **Associate Software Engineer** skilled in designing and develo
 #### 🖥️ Frontend  
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat&logo=redux&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -44,16 +56,32 @@ I'm a passionate **Associate Software Engineer** skilled in designing and develo
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
 
-#### 🗃️ Databases  
+#### 🗃️ Databases & data layer  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+Schema design, modeling, and **ORMs**: **Prisma**, **TypeORM**, **Mongoose**
+
+#### 🔐 Auth & identity  
+**Firebase Authentication**, **Supabase Auth**, **Auth0**, and **NextAuth.js** for session and identity flows
+
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Auth0](https://img.shields.io/badge/-Auth0-EB5424?style=flat&logo=auth0&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/-NextAuth.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+#### 🔌 Integrations & real-time  
+Third-party APIs—including **Stripe**, **Twilio**, **OpenAI**, and similar services—plus **WebSockets** / **Supabase Realtime**-style channels, and object storage such as **AWS S3**
 
 #### ☁️ DevOps & Cloud  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+Linux/cloud **deployments**, **staging vs production** workflows, **environment variables**, and log-driven debugging
 
 #### 🧠 CS Concepts  
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-blueviolet)
